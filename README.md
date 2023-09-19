@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinjose
+- 👋 Hi, I’m @martinjoze
 - 👀 I’m interested in Data scine
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on 
