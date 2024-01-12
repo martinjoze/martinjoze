@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinjoze
-- 👀 I’m interested in Data scine
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +91-9037517547
